@@ -15,6 +15,7 @@
 <br><br>
 
 ### My daily used-tech :
+<div>
 <a href="https://reactjs.org/"><img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/logos:react.svg"/></a>
 <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/240/000000/mongodb.png"/></a>
 <a href="https://www.postman.com/"><img align="left" alt="Postman" width="40px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/></a>
@@ -28,10 +29,12 @@
 <a href="https://www.w3schools.com/nodejs/"><img align="left" alt="Nodejs" width="40px" src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png"/></a>
 <a href="https://firebase.google.com/"><img align="left" alt="Firebase" width="40px" height="45px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"/></a>
 <a href="https://atom.io/"><img align="left" alt="Atom" width="40px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"/></a>
+</div>
 
-<br><br>
+<br><br><br><br>
 
-### About Me :
+<div align="left">
+<h3>About Me : </h3>
 
 ● Pre-final year student pursuing B.Tech in Computer Science and Engineering 👨🏻‍🎓🏛.
 
@@ -43,6 +46,7 @@
 
 ● MERN STACK DEVELOPER
 
+</div>
 </br>
 <div align="center">
 
