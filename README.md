@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="30">, I'm Hariom Kumar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" height="40">  </h1>
+<p><em>Student at <a href="https://hithaldia.ac.in/">Haldia Institute of Technology</em></a>&nbsp;&nbsp; <img  src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="26">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hariom510&label=Profile%20views&color=0e75b6&style=flat" alt="Hariom510" /> </p>
  
 <div align="left">
