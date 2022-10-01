@@ -41,10 +41,9 @@
 <a href="https://www.w3schools.com/html/"><img  alt="CSS" width="56px" height="56px" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"/></a> &nbsp;
 <a href="https://www.w3schools.com/js/"><img  alt="JavaScript" width="56px" height="56px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"/></a> &nbsp;
 <a href="https://www.w3schools.com/bootstrap/"><img  alt="Bootstrap" width="56px" height="56px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"/></a> &nbsp;
-<a href="https://www.w3schools.com/nodejs/"><img  alt="Nodejs" wwidth="56px" height="56px" src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png"/></a> &nbsp;
+<a href="https://www.w3schools.com/nodejs/"><img  alt="Nodejs" width="56px" height="56px" src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png"/></a> &nbsp;
 <a href="https://firebase.google.com/"><img  alt="Firebase" width="56px" height="56px" height="45px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"/></a> &nbsp;
-<a href="https://atom.io/"><img alt="Atom" width="56px" height="56px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"/></a> &nbsp;
-</p>
+
 
 <br>
 
