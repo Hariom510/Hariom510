@@ -52,7 +52,11 @@
 <h2> Some of my stats :bar_chart:  </h2>
 <div align="center">
 
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hariom510&theme=juicyfresh&no-frame=true&row=1&&margin-w=10&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Hariom510&theme=juicyfresh&no-frame=true&row=1&&margin-w=10&no-bg=true)
+ 
 ![Hariom,s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hariom510&show_icons=true&theme=radical)
+ 
 
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=Hariom510&theme=darcula&hide_border=false&theme=radical"> <br>
 
