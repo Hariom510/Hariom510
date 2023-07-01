@@ -6,7 +6,7 @@
 <div align="left">
 <h2>About Me :boy:</h2>
 
-● Pre-final year student pursuing B.Tech in Computer Science and Engineering 👨🏻‍🎓🏛.
+● Final year student pursuing B.Tech in Computer Science and Engineering 👨🏻‍🎓🏛.
 
 ● Competitive Programming Enthusiast 👨🏽‍💻.
 
